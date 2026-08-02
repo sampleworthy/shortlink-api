@@ -2,6 +2,8 @@
 
 A serverless link shortener: **Lambda + API Gateway + DynamoDB**, deployed entirely from the command line with Claude Code. No servers, no framework — one Python file.
 
+> **Lifecycle note:** this service ran live, served real traffic, and was then deliberately torn down — auditing and *removing* infrastructure cleanly is part of the course it was built for. Everything here rebuilds in ~20 minutes from the repo.
+
 ## Endpoints
 
 ```
